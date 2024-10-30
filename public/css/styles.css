@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4; /* Color de fondo suave */
+}
+
+h1 {
+    color: #333; /* Color del encabezado */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+}
+
+p {
+    line-height: 1.6; /* Mejora la legibilidad */
+    color: #555; /* Color del texto */
+}
+
+/* Decoración de enlaces */
+nav a {
+    margin-right: 15px;
+    text-decoration: none; /* Sin subrayado por defecto */
+    color: #007BFF; /* Color azul */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón */
+    color: #0056b3; /* Color más oscuro al pasar el ratón */
+}
